@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.8beb8a10.chunk.css",
+    "main.js": "/resume/static/js/main.78d64b49.chunk.js",
+    "main.js.map": "/resume/static/js/main.78d64b49.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.3a0fa1d4.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.3a0fa1d4.js.map",
+    "static/js/2.8b9fd1cb.chunk.js": "/resume/static/js/2.8b9fd1cb.chunk.js",
+    "static/js/2.8b9fd1cb.chunk.js.map": "/resume/static/js/2.8b9fd1cb.chunk.js.map",
+    "static/js/3.e06203dd.chunk.js": "/resume/static/js/3.e06203dd.chunk.js",
+    "static/js/3.e06203dd.chunk.js.map": "/resume/static/js/3.e06203dd.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/css/main.8beb8a10.chunk.css.map": "/resume/static/css/main.8beb8a10.chunk.css.map",
+    "static/js/2.8b9fd1cb.chunk.js.LICENSE.txt": "/resume/static/js/2.8b9fd1cb.chunk.js.LICENSE.txt",
+    "static/media/ResumePic.png": "/resume/static/media/ResumePic.989be03d.png",
+    "static/media/Resume_Elitmus.pdf": "/resume/static/media/Resume_Elitmus.64344e81.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a0fa1d4.js",
+    "static/js/2.8b9fd1cb.chunk.js",
+    "static/css/main.8beb8a10.chunk.css",
+    "static/js/main.78d64b49.chunk.js"
+  ]
+}
